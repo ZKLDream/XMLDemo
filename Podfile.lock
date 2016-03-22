@@ -1,0 +1,16 @@
+PODS:
+  - GDataXML-HTML (1.3.0)
+  - hpple (0.2.0)
+  - Ono (1.2.2)
+
+DEPENDENCIES:
+  - GDataXML-HTML
+  - hpple
+  - Ono
+
+SPEC CHECKSUMS:
+  GDataXML-HTML: 7adc03668cab35c288f1dbb8929a179f0fece898
+  hpple: 3b765f96fc2cd56ad1a49aef6f7be5cb2aa64b57
+  Ono: 80b1c686777d3f6d5d5ce6fcac8a74afef4ca197
+
+COCOAPODS: 0.38.2
